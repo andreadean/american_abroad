@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Convert temperature"
+        android:orderInCategory="100"
+        android:id="@+id/action_temp"
+        android:icon="@drawable/temperature"/>
+    <item
+        android:title="Convert money"
+        android:orderInCategory="102"
+        android:id="@+id/action_money"
+        android:icon="@drawable/dollar"/>
+    <item
+        android:title="Convert distance"
+        android:orderInCategory="103"
+        android:id="@+id/action_dist"
+        android:icon="@drawable/distance"/>
+    <item
+        android:title="Convert length"
+        android:orderInCategory="104"
+        android:id="@+id/action_length"
+        android:icon="@drawable/length"/>
+    <item
+        android:title="About"
+        android:orderInCategory="105"
+        android:id="@+id/action_about"
+        android:icon="@android:drawable/ic_menu_info_details"/>
+    <item
+        android:title="Help"
+        android:orderInCategory="106"
+        android:id="@+id/action_help"
+        android:icon="@android:drawable/ic_menu_help"/>
+
+</menu>

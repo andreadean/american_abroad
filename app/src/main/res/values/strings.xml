@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Conversion Buddy</string>
+    <string name="txt_cm">cm</string>
+    <string name="txt_in">in</string>
+    <string name="txt_cel">°C</string>
+    <string name="txt_fahr">°F</string>
+    <string name="txt_miles">mi</string>
+    <string name="txt_km">km</string>
+    <string name="txt_about">ABOUT</string>
+    <string name="txt_help">HELP</string>
+    <string name="msg_about">Created in 2015 by Andrea Dean to simplify conversions abroad! \n Currently supports temperature, currency, distance, and length conversions.</string>
+    <string name="msg_help">Pick conversion type either in the menu, or by dragging the intended conversion icon to the main conversion button!</string>
+    <string name="msgNoInternet">no internet connection detected</string>
+    <string name="distance">Distance</string>
+    <string name="money">Money</string>
+    <string name="temp">Temperature</string>
+    <string name="length">Length</string>
+    <string name="english_lng_code">en</string>
+    <string name="url">http://api.fixer.io/latest?base=</string>
+    <string name="welcome">Welcome!</string>
+    <string name="ok">OK COOL</string>
+</resources>
